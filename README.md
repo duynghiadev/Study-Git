@@ -35,4 +35,6 @@ Github là một dịch vụ trên mạng giúp chúng ta lưu trữ code và l�
 9. Nhớ nhấn **Save** sau khi đã setting xong.
 10. Tiếp theo ta cần set Git bash là Default Profile. Chọn mục "Startup" bên tay trái, Tại phần Default Profile thì chọn Git bash và tại phần "When Terminal starts" thì chọn "Open a tab with the default profile". Cuối cùng nhấn "Save"
 
-# Không cần origin cũng có thế pull từ nhánh default
+## Không cần origin cũng có thế pull từ nhánh default
+
+## Git UI
