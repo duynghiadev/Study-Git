@@ -38,3 +38,58 @@ Github là một dịch vụ trên mạng giúp chúng ta lưu trữ code và l�
 ## Không cần origin cũng có thế pull từ nhánh default
 
 ## Git UI
+
+## Cách Setup
+
+Đây là một thẻ p thông thường
+
+Tiếp theo là ul, li
+
+- Đây là ul
+- Đây là ul
+
+[Đây là thẻ a](google.com)
+![Đây là con voi](./img.jpg)
+
+**in đậm**
+
+_in nghiên_
+
+> Đây là quoting
+
+đây là ``git bash`
+
+```js
+const a = 100;
+```
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Study Git</title>
+  </head>
+  <body>
+    <h1>Học Git từ cơ bản đên nâng cao</h1>
+  </body>
+</html>
+```
+
+```bash
+git log
+```
+
+| Syntax    | Description |
+| --------- | ----------- |
+| Header    | Title       |
+| Paragraph | Text        |
+
+[Vào link này để tạo table cho nhanh](https://www.tablesgenerator.com/markdown_tables)
+
+| header 1  | header 2  | header 3  |
+| --------- | --------- | --------- |
+| content 1 | content 2 | content 3 |
