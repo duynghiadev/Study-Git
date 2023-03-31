@@ -1,0 +1,10 @@
+# Libbrary
+node_modules/**
+!node_modules/app.js
+build/
+dist/**.js
+
+# File
+.prettierrc
+
+logs*
