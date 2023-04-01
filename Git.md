@@ -8,3 +8,4 @@
 - Xoá branch ở local: `git branch -D localBranchName`
 - Xoá branch ở remove: `git push origin --delete remoteBranchName`
 - Cập nhật branch đã xoá: `git fetch -p`
+- Thêm thay đổi vào commit cuối cùng với amend: `git commit --amend`
