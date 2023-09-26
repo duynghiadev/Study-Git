@@ -8,3 +8,4 @@ dist/**.js
 .prettierrc
 
 logs*
+log*
